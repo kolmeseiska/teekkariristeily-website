@@ -1,0 +1,10 @@
+// CSS reset for all browsers
+@import "scss/_reset";
+
+// Common scss attributes
+@import "scss/_styles";
+
+// Common scss properties for specific elements.
+@import "scss/_common";
+
+@import "scss/style";

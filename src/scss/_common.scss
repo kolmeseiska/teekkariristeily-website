@@ -1,0 +1,60 @@
+body{
+  width: 100%;
+  height: 100%;
+  font-family: $font-default;
+  background-color: $color-gray;
+  text-align: center;
+  overflow-y:scroll;
+  overflow-x:hidden;
+}
+
+// Mixins
+@mixin material-shadow ($size: 1) {
+  -webkit-box-shadow: 0px $size*2px $size*2px 0px rgba(0,0,0,0.4);
+  -moz-box-shadow: 0px $size*2px $size*2px 0px rgba(0,0,0,0.4);
+  box-shadow: 0px $size*2px $size*2px 0px rgba(0,0,0,0.4);
+}
+
+@mixin margin-provider ($size: 1) {
+  margin: $size * $padding-default;
+}
+
+@mixin padding-provider ($y: 1, $x: 1) {
+  padding-left: $x * $padding-default;
+  padding-right: $x * $padding-default;
+  padding-top: $y * $padding-default;
+  padding-bottom: $y * $padding-default;
+}
+
+.disclaimer {
+  position: fixed;
+  bottom: $padding-default;
+  right: $padding-default;
+  font-family: $font-bang;
+  color: $color-yellow;
+}
+
+.navigation {
+  @include material-shadow;
+  text-align: center;
+  width: 100%;
+  background-color: $color-yellow;
+  font-family: $font-bang;
+  font-size: 20px;
+  border-bottom: 4px solid $color-black;
+
+  a {
+    text-decoration: none;
+    color: $color-black;
+
+    &:hover {
+      background-color: $color-black;
+      color: $color-white;
+    }
+  }
+
+  &__item {
+    @include padding-provider(2, 1);
+    display: inline-block;
+  }
+}
