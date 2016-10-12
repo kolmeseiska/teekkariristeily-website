@@ -2,14 +2,11 @@
 title: Teekkariristeily-17
 draft: false
 layout: index.html
-links:
-- Etusivu
-- Info
-- Ilmoittautuminen
-- Yhdistys
+banner: assets/banner.png
+content-modifier: home
 ---
-## Teekkariristeily 2016 purjehditaan Turusta Turkuun 3-4.3.2016
+## Teekkariristeily 2017 on pian täällä!
 
-2016 - Soon...
+Teekkariristeily on - yllätys, yllätys - koko Suomen teekkareille ja teekkarihenkisille suunnattu yhteinen reissu narniaan. Risteily starttaa Turun satamasta 2.3.2017 klo 20.15 ja palaa seuraavana päivänä klo 19.15.
 
-Ilmoittautuminen aukeaa perjantaina 15.1.2016 klo 14:00. Seuraa tiedotusta kärppänä niin saat varmasti varattua hyttisi. Kovimpiin risteilykuumotuksiin suosittelemme nappaamaan lähimmästä anniskeluravintolasta henkan ja hyräilemään ääneen kappaletta Silja Line Special. Kyllä tekee gutaa. Tai sitten suuntaa Turkuun harjoittelemaan.
+Ilmoittautumisen linkki tulee aikanaan näille sivuille tyrkylle muun tyrkytyksen toveriksi. Lähempänä risteilyä, julkaisemme sivuilla myös risteilyn virallisen ohjelman.

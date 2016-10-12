@@ -2,19 +2,15 @@
 title: Risteilyinfo
 draft: false
 layout: index.html
-links:
-- Etusivu
-- Info
-- Ilmoittautuminen
-- Yhdistys
-submenu:
-- Hinnat
-- Ohjelma
-- Ohjeet
-- Matkaehdot
+content-modifier: info
 ---
 ## Risteilyinfo
 
-Vuonna 2016 risteilylle lähdetään 1.12. Turun satamasta. Takaisin mantereelle palataan 2.12.
+Teekkariristeily, kaikkien teekkarien ja teekkarimielisten veijarien suosikkiristeily, näki ensimmäistä kertaa päivänvalon maaliskuussa 2015.
 
-Näiltä sivuilta löydät tietoa risteilyyn liittyen. Lisätietoja matkasta, ohjeista ja ohjelmasta julkaisemme lähempänä tapahtumaa näillä sivuilla, sekä sosiaalisessa mediassa!
+Neitsytristeily vuonna 2015 starttasi Turusta mukanaan noin 140 eri puolilta Suomea saapunutta iloista risteilijää. Itse matka soljui eteenpäin kuin humalainen norsu mikroluokassa, täysillä ja tyylillä. Laivan ohjelma, järjestäjien lottoamat kisailut ja täysi tanssilattia pitivät huolen siitä, ettei ensimmäisellä risteilyllä aika käynyt pitkäksi!
+
+Vuonna 2016 reissula oli mukana jo 300 iloista seiloria ja hauskaa pidettiin.
+
+<h2 style="padding-bottom: 0">"Tätä reissua en missaisi mistään hinnasta" </h2>
+<h2 style="padding-top: 0; font-size: 15px"> -Matti ja Teppo (ei muusikot), 2016</h2>

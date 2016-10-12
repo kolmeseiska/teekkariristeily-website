@@ -26,6 +26,8 @@ body{
   padding-bottom: $y * $padding-default;
 }
 
+
+// Page-wide components
 .disclaimer {
   position: fixed;
   bottom: $padding-default;
@@ -53,8 +55,23 @@ body{
     }
   }
 
+
   &__item {
     @include padding-provider(2, 1);
     display: inline-block;
+
+    &--invalid {
+      opacity: 0.4;
+
+      a {
+        cursor: default;
+
+        &:hover {
+          background-color: inherit;
+          color: initial;
+        }
+      }
+    }
   }
+
 }

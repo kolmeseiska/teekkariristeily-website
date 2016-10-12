@@ -1,5 +1,11 @@
-.container {
-  text-align: center;
+
+
+.logo {
+  max-width: 300px;
+  width: 30%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto; 
 }
 
 .content {
@@ -11,10 +17,17 @@
   margin-left: auto;
   margin-right: auto;
 
+  &__banner {
+    @include material-shadow;
+    width: 100%;
+    border: 4px solid $color-black;
+  }
+
   h2 {
     @include padding-provider(2, 2);
     font-family: $font-bang;
     font-size: 24px;
+    text-align: center;
   }
 
   p {
@@ -39,5 +52,10 @@
   td {
     padding: $padding-default;
   }
+
+  &--contacts {
+    text-align: center;
+  }
+
 }
 
