@@ -12,6 +12,6 @@ The generator uses markdown and handlebars to produce html-files using metalsmit
 ## Running:
 - npm install: Installing dependencies
 - npm start: Starts http-server and runs the build scripts
-- npm start-prod: Production deploy, no nodemon-process
+- npm run start-prod: Production deploy, no nodemon-process
 
 License: MIT

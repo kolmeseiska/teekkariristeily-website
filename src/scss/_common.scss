@@ -34,6 +34,12 @@ body{
   right: $padding-default;
   font-family: $font-bang;
   color: $color-yellow;
+
+  @media (max-width: 1072px){
+    position: initial;
+    margin: $padding-default;
+    display: block;
+  }
 }
 
 .navigation {

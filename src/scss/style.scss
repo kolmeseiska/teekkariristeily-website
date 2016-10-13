@@ -32,7 +32,7 @@
 
   p {
     padding: $padding-default;
-    text-align: left;
+    text-align: justify;
   }
 
   table {
@@ -43,14 +43,43 @@
     margin-left: auto;
     margin-right: auto;
     border: 2px solid $color-black;
+    font-size: 16px;
+
+    @media (max-width: 600px), (max-device-width: 600px){
+      font-size: 12px;
+    }
+
+    &:last-child {
+      font-weight: 900;
+
+      th {
+        font-weight: 300;
+      }
+
+      td {
+        &:first-child {
+          font-weight: 300;
+        }
+      }
+    }
   }
   th {
     font-family: $font-bang;
     padding: $padding-default;
     background-color: $color-yellow;
+    font-size: 20px;
   }
   td {
     padding: $padding-default;
+
+    &:first-child {
+      font-family: $font-bang;
+      font-size: 16px;
+    }
+
+    &:last-child {
+      font-weight: 900;
+    }
   }
 
   &--contacts {
