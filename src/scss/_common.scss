@@ -26,6 +26,16 @@ body{
   padding-bottom: $y * $padding-default;
 }
 
+.hero-image {
+  overflow: hidden;
+  height: 300px;
+  width: 100%;
+  background: url(../assets/banner.png) no-repeat center 0;
+  background-size: cover;
+  z-index: -1;
+  border-bottom: 4px solid $color-black;
+
+}
 
 // Page-wide components
 .disclaimer {
@@ -44,12 +54,15 @@ body{
 
 .navigation {
   @include material-shadow;
+  position: absolute;
   text-align: center;
   width: 100%;
   background-color: $color-yellow;
   font-family: $font-bang;
   font-size: 20px;
   border-bottom: 4px solid $color-black;
+  z-index: 1;
+  top: 0;
 
   a {
     text-decoration: none;
@@ -79,5 +92,4 @@ body{
       }
     }
   }
-
 }
