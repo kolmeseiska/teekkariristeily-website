@@ -8,6 +8,10 @@ body{
   overflow-x:hidden;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 // Mixins
 @mixin material-shadow ($size: 1) {
   -webkit-box-shadow: 0px $size*2px $size*2px 0px rgba(0,0,0,0.4);
