@@ -5,7 +5,7 @@ layout: index.html
 ---
 ## Hinnoista
 
-Risteilyn hinta muodostuu valitusta hyttiluokasta sekä valittavasta ruokailusta. Ruokailun valinta on pakollinen. Matkoja myydään vain hyteittäin, joten yksittäislippujen ostaminen ei ole mahdollista. Teekkaripaikkakunnilta järjestetään yhteismatkoja risteilylle, ja tällöin hinta koostuu hytin ja ruokailun lisäksi bussimatkasta. Sivuille tullaan lisäämään tiedot eri paikkakuntien ilmoittautumiskäytännöistä! 
+Risteilyn hinta muodostuu valitusta hyttiluokasta sekä valittavasta ruokailusta. Ruokailu __ei ole pakollinen__. Matkoja myydään vain hyteittäin, joten yksittäislippujen ostaminen ei ole mahdollista. Teekkaripaikkakunnilta järjestetään yhteismatkoja risteilylle, ja tällöin hinta koostuu hytin ja ruokailun lisäksi bussimatkasta. Sivuille tullaan lisäämään tiedot eri paikkakuntien ilmoittautumiskäytännöistä! 
 
 Risteilyyn sisältyy myös huikeaa ohjelmaa sekä täysin uniikki virallinen __Teekkariristeilyn haalarimerkki__!
 
