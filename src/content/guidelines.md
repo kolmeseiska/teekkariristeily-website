@@ -40,7 +40,7 @@ Sataman turvamiehet voivat puuttua omien juotavien juomiseen satamassa, joten ä
 
 ### Laivalla
 Ruokakupongit
-Mahdolliset ennakkoon tilatut ruokakupongit toimitetaan matkalippujen yhteydessä. Ruokakupongissa lukee mihin ruokailuun se oikeuttaa sekä kupongin arvo. Voit käyttää kuponkia maksuvälineenä laivan ruokaravintoloissa. Maksettaessa ruokaa, jonka arvo on ruokalipun arvoa pienempi, ei erotusta hyvitetä asiakkaalle eikä käyttämättömiä ruokaseteleitä lunasteta takaisin.
+Mahdolliset ennakkoon tilatut ruokakupongit ovat yhdistetty maihinnousukortteihin. Ruokakupongissa lukee mihin ruokailuun se oikeuttaa sekä kupongin arvo. Voit käyttää kuponkia maksuvälineenä laivan ruokaravintoloissa. Maksettaessa ruokaa, jonka arvo on ruokalipun arvoa pienempi, ei erotusta hyvitetä asiakkaalle eikä käyttämättömiä ruokaseteleitä lunasteta takaisin.
 
 ### Ruokailut
 Buffetillalliseen ei tehdä erilisiä pöytävarauksia, vaan ravintolan hovimestari ohjaa seurueenne vapaana olevaan pöytään, kun saavutte ruokailemaan.
