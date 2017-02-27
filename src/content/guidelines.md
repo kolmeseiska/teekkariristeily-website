@@ -39,7 +39,8 @@ Matkustajan on pyydettäessä todistettava henkilöllisyytensä satamassa kuvall
 Sataman turvamiehet voivat puuttua omien juotavien juomiseen satamassa, joten älä heilu terminaalissa kaljapullot ym. kädessä tai näkyvissä. Turvamiehet voivat tehdä matkustajien matkatavaroihin pistokokein tarkastuksia ja havaitessaan takavarikoida omia alkoholijuomia ja/tai soittimia.
 
 ### Laivalla
-Ruokakupongit
+
+### Ruokakupongit
 Mahdolliset ennakkoon tilatut ruokakupongit ovat yhdistetty maihinnousukortteihin. Ruokakupongissa lukee mihin ruokailuun se oikeuttaa sekä kupongin arvo. Voit käyttää kuponkia maksuvälineenä laivan ruokaravintoloissa. Maksettaessa ruokaa, jonka arvo on ruokalipun arvoa pienempi, ei erotusta hyvitetä asiakkaalle eikä käyttämättömiä ruokaseteleitä lunasteta takaisin.
 
 ### Ruokailut
