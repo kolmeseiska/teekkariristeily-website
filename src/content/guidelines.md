@@ -15,9 +15,6 @@ submenu:
 ---
 ## Matkustusohjeet
 
-### Ilmoittautuminen ja maksaminen
-Ilmoittautumisen yhteydessä saatte maksuohjeet. Maksun eräpäivä on <INSERT DATE HERE> 
-
 ### Pukeutuminen
 Pukukoodina Teekkariristeilyllä on haalarit.
 
