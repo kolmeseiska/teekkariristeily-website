@@ -16,27 +16,23 @@ submenu:
 ## Matkustusohjeet
 
 ### Ilmoittautuminen ja maksaminen
-Uusi ilmoittautumisjärjestelmä tuo mukanaan varaamiseen verkkomaksun, johon onkin hyvä varautua!
+Ilmoittautumisen yhteydessä saatte maksuohjeet. Maksun eräpäivä on <INSERT DATE HERE> 
 
 ### Pukeutuminen
-Pukukoodina Luonnontieteilijöiden Jouluristeilyllä on haalarit.
+Pukukoodina Teekkariristeilyllä on haalarit.
 
 ### Ikäraja
 Risteilylle on 18 vuoden ikäraja.
 
 ### Tax Free
-Tuotevalvontasäännösten vuoksi tax free -myymälä ei myy alkoholituotteita Turusta lähteneille risteilymatkustajille menomatkalla (1.12.). Paluumatkalla (2.12.) risteilymatkustajillamme on täydet tax free osto-oikeudet. Myymälä on avoinna torstaina klo 20.15-23.00 sekä perjantaina klo 06.30-07.00 ja 09.00-19.00
-
-### LAL:n ja YKL:n jäsenet
-LAL ja YKL jakavat niin uusille kuin vanhoille jäsenilleen drinkkilippuja risteilyn aikana. Drinkkilippuja on jaossa rajallinen määrä. Oman juomalippunsa voi noutaa ammattiliittojen ständeiltä 6. kannen info-aulasta. Ständit ovat auki menoiltana 22.00-24.00 ja paluupäivänä 12.00-15.30. 
-HUOM! Muistakaa ottaa jäsenkorttinne mukaan!
+Tax Free myymälä on normaalisti auki risteilyn ajan.
 
 ### Lippujen jako
-Hyttien liput on jaettu kirjekuoriin ja lajiteltu hytin yhteyshenkilön sukunimen mukaan. Kirjekuoressa on käsiohjelmat, rannekkeet (joiden kontrolliosa toimii tervetulotilaisuudessa arpana!) sekä maihinnousukortit.
+Hyttien liput on jaettu kirjekuoriin ja lajiteltu hytin yhteyshenkilön sukunimen mukaan. Kirjekuoressa on käsiohjelmat, haalarimerkit sekä maihinnousukortit.
 
-Satamassa Siljan terminaalissa, ryhmämatkojen toimiston vieressä on pitkä pöytä jonka yläpuolelle on ripustettu merkit jotka kertovat mistä kohtaa ketäkin voi lippujaan kysellä. En selitä miten päätellään missä kohtaa oma sukunimi on, koska oletan teidän jo osaavan.
+Satamassa Siljan terminaalissa, ryhmämatkojen toimiston vieressä on pitkä pöytä, jonka luota yhteyshenkilön tulee noutaa kirjekuorensa.
 
-Lippuja aletaan jakamaan alkaen kello 18.00. Olkaa kilttejä ja noutakaa lippunne mielellään varttia vaille kahdeksan eli 19.45 mennessä! Tämä auttaa jättämään aikaa jos jotain pitää vielä korjata.
+Lippuja aletaan jakamaan alkaen kello 18.30. Olkaa kilttejä ja noutakaa lippunne mielellään varttia vaille kahdeksan eli 19.45 mennessä! Tämä auttaa jättämään aikaa jos jotain pitää vielä korjata.
 
 ### Lippujenjaon jälkeen
 Laivaan nousu tapahtuu terminaalin toisesta kerroksesta. Terminaalin toisessa kerroksessa on odotusalue, johon pääsee turvatarkastuksen jälkeen. Turvatarkastuksessa matkalipustasi luetaan viivakoodi, jonka jälkeen et pääse enää pois odotusalueelta. Odotusalueella on erillinen anniskelualue. Matkustajat pääsevät odotusalueelta laivaan noin klo 20.00.
@@ -47,7 +43,7 @@ Sataman turvamiehet voivat puuttua omien juotavien juomiseen satamassa, joten ä
 
 ### Laivalla
 Ruokakupongit
-Ennakkoon tilatut ruokakupongit toimitetaan matkalippujen yhteydessä. Ruokakupongissa lukee mihin ruokailuun se oikeuttaa sekä kupongin arvo. Voit käyttää kuponkia maksuvälineenä laivan ruokaravintoloissa. Maksettaessa ruokaa, jonka arvo on ruokalipun arvoa pienempi, ei erotusta hyvitetä asiakkaalle eikä käyttämättömiä ruokaseteleitä lunasteta takaisin.
+Mahdolliset ennakkoon tilatut ruokakupongit toimitetaan matkalippujen yhteydessä. Ruokakupongissa lukee mihin ruokailuun se oikeuttaa sekä kupongin arvo. Voit käyttää kuponkia maksuvälineenä laivan ruokaravintoloissa. Maksettaessa ruokaa, jonka arvo on ruokalipun arvoa pienempi, ei erotusta hyvitetä asiakkaalle eikä käyttämättömiä ruokaseteleitä lunasteta takaisin.
 
 ### Ruokailut
 Buffetillalliseen ei tehdä erilisiä pöytävarauksia, vaan ravintolan hovimestari ohjaa seurueenne vapaana olevaan pöytään, kun saavutte ruokailemaan.
