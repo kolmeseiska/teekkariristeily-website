@@ -13,6 +13,6 @@ links:
 
 <span class="enroll-link__container">
 <h2 class="enroll-link">
-Peruutusliput tulevat myyntiin 18.10.
+Linkki ilmoittautumisjärjestelmään ilmestyy tälle sivulle 15.1.2018 ilmoittautumisen alkaessa!
 </h2>
 </span>
