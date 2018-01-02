@@ -9,7 +9,7 @@
     "build:js": "bash -c \"browserify ./src/main.js -o ./dist/bundle.js -t [ babelify --presets [ es2015] ] \"",
     "uglify": "uglifyjs --compress --mangle -- ./dist/bundle.js > ./dist/bundle.min.js",
     "clean": "rm -rf ./dist",
-    "server": "http-server ./dist -p 80",
+    "server": "http-server ./dist",
     "build:all": "npm run clean && (npm run build:metalsmith && npm run copy:assets && npm run build:css && npm run build:js)",
     "watch": "nodemon --ignore ./dist/ -e scss,html,md,js -x \"npm run build:all\"",
     "start": "bash -c \"(npm run server & npm run watch)\"",
