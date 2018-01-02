@@ -18,7 +18,7 @@ Varattavien hyttien lista on seuraavanlainen:
 | B2 |  Kahden hengen ikkunattomia 9 m2 sisähyttejä. Hyteissä on wc, suihku ja LCD-TV.  | 50€ | 
 | B4 |  Neljän hengen ikkunattomia 9 m2 sisähyttejä. Hyteissä on wc, suihku ja LCD-TV.  | 70€ | 
 | A2 | Kahden hengen ikkunallisia 9 m2 hyttejä. Osassa hyteissä on kiinteä parivuode (vuoteita ei saa erilleen), wc, suihku ja LCD-TV. | 70€ |
-| A4 | Neljän hengen ikkunallisia 9-10 m2 hyttejä. Hyteissä on wc, suihku ja LCD-TV. | 100€ |
+| A4 | Neljän hengen ikkunallisia 9-10 m2 hyttejä. Hyteissä on wc, suihku ja LCD-TV. | 90€ |
 
 ## Ruokailujen hinnat
 
