@@ -26,3 +26,14 @@ Taulukossa etukäteen ostettavien ruokailujen hinnat. Ruokakupongit voi käyttä
 |Meriaamiainen | 10,50€ | 11,50€ |
 |Buffet-illallinen | 35,00€ | 37,00€ |
 |Buffet-lounas | 31,00€ | 33,00€ |
+
+## Ryhmäedut
+
+Kerää mukaasi tarvittava määrä kavereita ja lunasta ryhmäetu! Ilmoita järjestäjille kavereiden nimet, jotka ovat ostaneet hytit, jotta voimme todentaa ryhmäedun ja myönnämme taulukon mukaisesti yhden ilmaisen hytin mahdollisine ruokailuineen.
+
+| Kavereita  | Ryhmäetu      |
+|:---------- | :------------ |
+| 20 | Ilmainen 4 hlön hytti |
+| 40 | Ilmainen 4 hlön hytti ja kahdelle henkilölle illallinen, aamiainen sekä lounas |
+
+
