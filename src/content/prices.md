@@ -13,9 +13,9 @@ Varattavien hyttien lista on seuraavanlainen:
 
 | Hyttiluokka   | Kuvaus        | Hinta |
 |:------------- |:--------------| -----:|
-| E4 |  Neljän hengen ikkunattomia hyttejä. Hyteissä on wc, suihku ja LCD-TV. Hytit sijaitsevat yökerhon yläpuolella, joten niihin saattaa kantautua melua.  | 60€ | 
-| B4 |  Neljän hengen ikkunattomia 9 m2 sisähyttejä. Hyteissä on wc, suihku ja LCD-TV.  | 80€ | 
-| A4 | Neljän hengen ikkunallisia 9-10 m2 hyttejä. Hyteissä on wc, suihku ja LCD-TV. | 100€ |
+| E4 |  Neljän hengen ikkunattomia hyttejä. Hyteissä on wc, suihku ja LCD-TV. Hytit sijaitsevat yökerhon yläpuolella, joten niihin saattaa kantautua melua.  | 48€ | 
+| B4 |  Neljän hengen ikkunattomia 9 m2 sisähyttejä. Hyteissä on wc, suihku ja LCD-TV.  | 52€ | 
+| A4 | Neljän hengen ikkunallisia 9-10 m2 hyttejä. Hyteissä on wc, suihku ja LCD-TV. | 60€ |
 
 ## Ruokailujen hinnat
 
