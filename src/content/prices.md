@@ -37,4 +37,35 @@ Kerää mukaasi tarvittava määrä kavereita ja lunasta ryhmäetu! Ilmoita jär
 | 20 | Ilmainen 4 hlön hytti |
 | 40 | Ilmainen 4 hlön hytti ja kahdelle henkilölle illallinen, aamiainen sekä lounas |
 
+## Matkaehdot
+
+Teekkariristeily 2019 järjestäjänä toimii Kolmeseiska ry. Risteilyn aikana laivan normaalitoiminnoista vastaa Tallink Silja. Lipunmyynti järjestetään yhdessä After lecture ry:n kanssa.
+
+Laivalla noudatetaan viranomaismääräysten lisäksi Tallink Siljan järjestyssääntöjä ja määräyksiä.
+
+Laivalla turvallisuudesta ja järjestyksenvalvonnasta vastaa laivayhtiö. Tallink Siljan säännöt, määräykset ja ohjeet löydät kokonaisuudessaan Tallink Siljan internetsivuilta: http://www.tallinksilja.com/fi/web/fi/hyva-tietaa
+
+Matkavaraukset ovat sitovia. Matkan hinta määräytyy matkustajien lukumäärän ja valitun hyttiluokan sekä lisäpalvelujen mukaisesti. Varattuun matkaan on mahdollista tehdä muutoksia ja/tai peruutuksia järjestäjän ilmoittamien perutusehtojen (alla) mukaisesti.
+
+Matkustajat majoitetaan varauksessa valittuun hyttiluokkaan. Tallink Siljalla tai järjestäjällä on kuitenkin oikeus muuttaa matkustajien hyttiluokkaa paremmaksi hyttikiintiöiden täytyttyä tai ylivaraustapauksissa. Tallink Siljalla tai järjestäjällä ei ole kuitenkaan oikeutta veloittaa em. tapauksessa tehdystä muutoksesta matkustajia.
+
+Matkustaja vastaa itse itsestään ja huolehtii siitä, että on oikeassa paikassa oikeaan aikaan esim. ruokailuissa. Järjestäjä ei hyvitä esim. käyttämättä jääneitä ruokailukuponkeja. Peruutustapauksissa järjestäjä hyvittää matkalipun ja ruokailun alla mainittujen peruutusehtojen mukaisesti.
+
+Järjestäjän tuottamassa materiaalissa mainitut ajat ovat kaikki Suomen aikaa. Muutokset ja lisäykset ohjelmaan ovat mahdollisia. Kaikki oikeudet pidätetään.
+
+Teekkariristeilyllä voidaan taltioida tapahtumia järjestäjän toimesta tai järjestäjä voi hankkia tallenteita käyttöönsä matkustajilta. Kuvia ja muita tallenteita voidaan käyttää järjestäjän järjestämien tapahtumien markkinoinnissa sekä niitä voidaan julkaista kuvagalleriassa.
+
+### Peruutusehdot
+
+Vain yhteyshenkilö voi tehdä muutoksia ja peruutuksia varaukseen.
+
+Kaikki muutokset ja peruutukset tehdään sähköpostitse (kolmeseiska(at)lists.utu.fi).
+
+Kokonaishinnan muuttuessa varaukseen tehtävien muutosten seurauksena tulee erotus yhteyshenkilölle joko maksettavaksi tai palautettavaksi. Palautettavasta summasta vähennetään kuitenkin 50 % riippuen muutoksen tai peruutuksen ajankohdasta (perusteet mainittu alla).
+
+Ennen 28.2.2019 tehdyistä peruutuksista ja palautuksiin oikeuttavista muutoksista palautetaan 100 %. Palautettavat maksut hyvitetään yhteyshenkilön ilmoittamalle tilille. 28.2.2019 jälkeen tehdyistä peruutuksista ja muutoksista palautetaan 50%. Ruokailujen peruutuksista ei saa hyvityksiä.
+
+Järjestäjä ei korvaa matka-, majoitus- tai muita vastaavia kuluja, jotka aiheutuvat laivasta myöhästymisen, matkalipun hukkumisen, laivaan pääsyn eväämisen tai viranomaistoimien vuoksi.
+
+
 
