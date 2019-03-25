@@ -22,7 +22,7 @@ Pukukoodina Teekkariristeilyllä on haalarit.
 Risteilylle on 18 vuoden ikäraja.
 
 ### Tax Free
-Tax Free myymälä on normaalisti auki risteilyn ajan.
+Tax Free myymälä on normaalisti auki risteilyn ajan, mutta alkoholituotteita myydään vasta paluupäivänä. 
 
 ### Lippujen jako
 Hyttien liput on jaettu kirjekuoriin ja lajiteltu hytin yhteyshenkilön sukunimen mukaan. Kirjekuoressa on käsiohjelmat, haalarimerkit sekä maihinnousukortit.
