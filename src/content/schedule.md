@@ -13,9 +13,6 @@ submenu:
 - Ohjeet
 - Matkaehdot
 ---
-## Risteilyn ohjelma
-
-Seuraa tiedotusta, ohjelma löytyy sivulta kun saamme sen julkiseksi.
 
 ## Teekkariohjelmaa
 | Aika | Ohjelma | Paikka |
