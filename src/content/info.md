@@ -14,7 +14,7 @@ Vuonna 2016 reissula oli mukana jo 300 iloista seiloria ja hauskaa pidettiin.
 
 Seuraavana vuonna, eli 2017, risteilysaaga sai jatkoa ja vuorossaan kolmas risteily oli eeppinen seikkailunsa sekin.
 
-Katsotaan, mitä 2018 vuoden versio tuokaan tullessaan...
+Katsotaan, mitä 2020 vuoden versio tuokaan tullessaan...
 
 <h2 style="padding-bottom: 0">"Tätä reissua en missaisi mistään hinnasta" </h2>
 <h2 style="padding-top: 0; font-size: 15px"> -Matti ja Teppo (ei muusikot), 2016</h2>

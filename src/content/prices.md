@@ -5,7 +5,7 @@ layout: index.html
 ---
 ## Hinnoista
 
-Risteilyn hinta muodostuu valitusta hyttiluokasta sekä valittavasta ruokailusta. Ruokailu __ei ole pakollinen__. Matkoja myydään vain hyteittäin, joten yksittäislippujen ostaminen ei ole mahdollista. Teekkaripaikkakunnilta järjestetään yhteismatkoja risteilylle, ja tällöin hinta koostuu hytin ja mahdollisen ruokailun lisäksi bussimatkasta. Sivuille tullaan lisäämään tiedot eri paikkakuntien ilmoittautumiskäytännöistä! 
+Risteilyn hinta muodostuu valitusta hyttiluokasta sekä valittavasta ruokailusta. Ruokailu __ei ole pakollinen__. Matkoja myydään vain hyteittäin, joten yksittäislippujen ostaminen ei ole mahdollista. Teekkaripaikkakunnilta järjestetään yhteismatkoja risteilylle, ja tällöin hinta koostuu hytin ja mahdollisen ruokailun lisäksi bussimatkasta. Sivuille tullaan lisäämään tiedot eri paikkakuntien ilmoittautumiskäytännöistä!
 
 Risteilyyn sisältyy myös huikeaa ohjelmaa sekä täysin uniikki virallinen __Teekkariristeilyn haalarimerkki__!
 
@@ -13,10 +13,10 @@ Varattavien hyttien lista on seuraavanlainen:
 
 | Hyttiluokka   | Kuvaus        | Hinta |
 |:------------- |:--------------| -----:|
-| E4 |  Neljän hengen ikkunattomia hyttejä. Hyteissä on wc, suihku ja LCD-TV. Hytit sijaitsevat yökerhon yläpuolella, joten niihin saattaa kantautua melua.  | 48€ | 
-| B4 |  Neljän hengen ikkunattomia 9 m2 sisähyttejä. Hyteissä on wc, suihku ja LCD-TV.  | 52€ | 
-| A4 | Neljän hengen ikkunallisia 9-10 m2 hyttejä. Hyteissä on wc, suihku ja LCD-TV. | 60€ |
-| A premium |  Kahden hegen ikkunallisia 9 m2 hyttejä. Hyteissä on kiinteä parivuode, wc, suihku ja LCD-TV. Hyttiluokkaan sisältyy erikoisaamiainen ja juomakuponki.  | 96€ |
+| E4 |  Neljän hengen ikkunattomia hyttejä. Hyteissä on wc, suihku ja LCD-TV. Hytit sijaitsevat yökerhon yläpuolella, joten niihin saattaa kantautua melua.  | TBA |
+| B4 |  Neljän hengen ikkunattomia 9 m2 sisähyttejä. Hyteissä on wc, suihku ja LCD-TV.  | TBA |
+| A4 | Neljän hengen ikkunallisia 9-10 m2 hyttejä. Hyteissä on wc, suihku ja LCD-TV. | TBA |
+| A premium |  Kahden hegen ikkunallisia 9 m2 hyttejä. Hyteissä on kiinteä parivuode, wc, suihku ja LCD-TV. Hyttiluokkaan sisältyy erikoisaamiainen ja juomakuponki.  | TBA |
 
 ## Ruokailujen hinnat
 
@@ -39,7 +39,7 @@ Kerää mukaasi tarvittava määrä kavereita ja lunasta ryhmäetu! Ilmoita jär
 
 ## Matkaehdot
 
-Teekkariristeily 2019 järjestäjänä toimii Kolmeseiska ry. Risteilyn aikana laivan normaalitoiminnoista vastaa Tallink Silja. Lipunmyynti järjestetään yhdessä After lecture ry:n kanssa.
+Teekkariristeily 2020 järjestäjänä toimii Kolmeseiska ry. Risteilyn aikana laivan normaalitoiminnoista vastaa Tallink Silja. Lipunmyynti järjestetään yhdessä After lecture ry:n kanssa.
 
 Laivalla noudatetaan viranomaismääräysten lisäksi Tallink Siljan järjestyssääntöjä ja määräyksiä.
 
@@ -63,9 +63,6 @@ Kaikki muutokset ja peruutukset tehdään sähköpostitse (kolmeseiska(at)lists.
 
 Kokonaishinnan muuttuessa varaukseen tehtävien muutosten seurauksena tulee erotus yhteyshenkilölle joko maksettavaksi tai palautettavaksi. Palautettavasta summasta vähennetään kuitenkin 50 % riippuen muutoksen tai peruutuksen ajankohdasta (perusteet mainittu alla).
 
-Ennen 28.2.2019 tehdyistä peruutuksista ja palautuksiin oikeuttavista muutoksista palautetaan 100 %. Palautettavat maksut hyvitetään yhteyshenkilön ilmoittamalle tilille. 28.2.2019 jälkeen tehdyistä peruutuksista ja muutoksista palautetaan 50%. Ruokailujen peruutuksista ei saa hyvityksiä.
+Ennen 28.2.2020 tehdyistä peruutuksista ja palautuksiin oikeuttavista muutoksista palautetaan 100 %. Palautettavat maksut hyvitetään yhteyshenkilön ilmoittamalle tilille. 28.2.2020 jälkeen tehdyistä peruutuksista ja muutoksista palautetaan 50%. Ruokailujen peruutuksista ei saa hyvityksiä.
 
 Järjestäjä ei korvaa matka-, majoitus- tai muita vastaavia kuluja, jotka aiheutuvat laivasta myöhästymisen, matkalipun hukkumisen, laivaan pääsyn eväämisen tai viranomaistoimien vuoksi.
-
-
-
