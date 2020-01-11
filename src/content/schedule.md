@@ -17,9 +17,9 @@ submenu:
 ## Teekkariohjelmaa
 | Aika | Ohjelma | Paikka |
 |:---------|------:|-------------:|
-TBA
+| TBA
 
 ## Laivan oma ohjelma
 | Aika | Ohjelma | Paikka |
 |:---------|------:|-------------:|
-TBA
+| TBA
