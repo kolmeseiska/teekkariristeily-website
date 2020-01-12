@@ -13,7 +13,7 @@
     "build:all": "npm run clean && (npm run build:metalsmith && npm run copy:assets && npm run build:css && npm run build:js)",
     "watch": "nodemon --ignore ./dist/ -e scss,html,md,js -x \"npm run build:all\"",
     "start": "bash -c \"(npm run server & npm run watch)\"",
-    "start-prod": "bash -c \"npm run build:all && npm run server\"",
+    "start-prod": "bash -c \"npm run build:all\"",
     "copy:assets": "bash -c \"mkdir -p ./dist/ && cp -r ./src/assets ./dist/\""
   },
   "author": "Julius Rajala",
