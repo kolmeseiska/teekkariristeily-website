@@ -13,10 +13,12 @@ Varattavien hyttien lista on seuraavanlainen:
 
 | Hyttiluokka   | Kuvaus        | Hinta |
 |:------------- |:--------------| -----:|
-| E4 |  Neljän hengen ikkunattomia hyttejä. Hyteissä on wc, suihku ja LCD-TV. Hytit sijaitsevat yökerhon yläpuolella, joten niihin saattaa kantautua melua.  | TBA |
-| B4 |  Neljän hengen ikkunattomia 9 m2 sisähyttejä. Hyteissä on wc, suihku ja LCD-TV.  | TBA |
-| A4 | Neljän hengen ikkunallisia 9-10 m2 hyttejä. Hyteissä on wc, suihku ja LCD-TV. | TBA |
-| A premium |  Kahden hegen ikkunallisia 9 m2 hyttejä. Hyteissä on kiinteä parivuode, wc, suihku ja LCD-TV. Hyttiluokkaan sisältyy erikoisaamiainen ja juomakuponki.  | TBA |
+| E3 | Kolmen hengen ikkunattomia hyttejä. Hyteissä on wc, suihku ja LCD-TV. Hytit sijaitsevat yökerhon yläpuolella, joten niihin saattaa kantautua melua. | 45 € |
+| E4 | Neljän hengen ikkunattomia hyttejä. Hyteissä on wc, suihku ja LCD-TV. Hytit sijaitsevat yökerhon yläpuolella, joten niihin saattaa kantautua melua. | 48 € |
+| B4 | Neljän hengen ikkunattomia 9 m2 sisähyttejä. Hyteissä on wc, suihku ja LCD-TV. | 52 € |
+| A4 | Neljän hengen ikkunallisia 9-10 m2 hyttejä. Hyteissä on wc, suihku ja LCD-TV. | 60 € |
+| A premium |  Kahden hegen ikkunallisia 9 m2 hyttejä. Hyteissä on kiinteä parivuode, wc, suihku ja LCD-TV. Hyttiluokkaan sisältyy erikoisaamiainen ja juomakuponki.  | 96 € |
+| Deluxe | Kahden hengen tilavia 11–14 m2 hyttejä (osassa hyteistä nojatuoli tai pieni sohva), kannella 8 ja 9. Hyteissä on kiinteä parivuode (vuoteita ei saa erilleen), wc, suihku, hiustenkuivaaja, LCD-TV, puhelin, jääkaappi ja virvokkeita. Erikoisaamiainen sisältyy hintaan. | 165 € |
 
 ## Ruokailujen hinnat
 
@@ -24,9 +26,9 @@ Taulukossa etukäteen ostettavien ruokailujen hinnat. Ruokakupongit voi käyttä
 
 | Ruokailu | Hinta | Kupongin arvo laivalla |
 |:---------|------:|-------------:|
-|Meriaamiainen | 12,00€ | 12.00€ |
-|Buffet-illallinen | 34,00€ | 34,00€ |
-|Buffet-lounas | 26,00€ | 26,00€ |
+|Meriaamiainen | 13 € | 15 € |
+|Buffet-illallinen | 34 € | 37 € |
+|Buffet-lounas | 26 € | 29 € |
 
 ## Ryhmäedut
 
