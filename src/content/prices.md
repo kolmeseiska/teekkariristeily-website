@@ -18,7 +18,7 @@ Varattavien hyttien lista on seuraavanlainen:
 | B4 | Neljän hengen ikkunattomia 9 m2 sisähyttejä. Hyteissä on wc, suihku ja LCD-TV. | 52 € |
 | A4 | Neljän hengen ikkunallisia 9-10 m2 hyttejä. Hyteissä on wc, suihku ja LCD-TV. | 60 € |
 | A premium |  Kahden hegen ikkunallisia 9 m2 hyttejä. Hyteissä on kiinteä parivuode, wc, suihku ja LCD-TV. Hyttiluokkaan sisältyy erikoisaamiainen ja juomakuponki.  | 96 € |
-| Deluxe | Kahden hengen tilavia 11–14 m2 hyttejä (osassa hyteistä nojatuoli tai pieni sohva), kannella 8 ja 9. Hyteissä on kiinteä parivuode (vuoteita ei saa erilleen), wc, suihku, hiustenkuivaaja, LCD-TV, puhelin, jääkaappi ja virvokkeita. Erikoisaamiainen sisältyy hintaan. | 165 € |
+| Deluxe | Kahden hengen tilavia 11–14 m2 hyttejä (osassa hyteistä nojatuoli tai pieni sohva), kannella 8 ja 9. Hyteissä on kiinteä parivuode (vuoteita ei saa erilleen), wc, suihku, hiustenkuivaaja, LCD-TV, puhelin, jääkaappi ja virvokkeita. Erikoisaamiainen sisältyy hintaan. |165 € |
 
 ## Ruokailujen hinnat
 
