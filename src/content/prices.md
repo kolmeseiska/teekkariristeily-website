@@ -26,7 +26,7 @@ Taulukossa etukäteen ostettavien ruokailujen hinnat. Ruokakupongit voi käyttä
 
 | Ruokailu | Hinta | Kupongin arvo laivalla |
 |:---------|------:|-------------:|
-|Meriaamiainen | 13&nbsp;€ | 15&nbsp;€ |
+|Meriaamiainen | 12&nbsp;€ | 15&nbsp;€ |
 |Buffet-illallinen | 34&nbsp;€ | 37&nbsp;€ |
 |Buffet-lounas | 26&nbsp;€ | 29&nbsp;€ |
 
@@ -61,7 +61,7 @@ Teekkariristeilyllä voidaan taltioida tapahtumia järjestäjän toimesta tai j�
 
 Vain yhteyshenkilö voi tehdä muutoksia ja peruutuksia varaukseen.
 
-Kaikki muutokset ja peruutukset tehdään sähköpostitse (kolmeseiska(at)lists.utu.fi).
+Kaikki muutokset ja peruutukset tehdään sähköpostitse (kolomeseiska(at)gmail.com).
 
 Kokonaishinnan muuttuessa varaukseen tehtävien muutosten seurauksena tulee erotus yhteyshenkilölle joko maksettavaksi tai palautettavaksi. Palautettavasta summasta vähennetään kuitenkin 50 % riippuen muutoksen tai peruutuksen ajankohdasta (perusteet mainittu alla).
 
