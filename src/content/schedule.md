@@ -17,7 +17,13 @@ submenu:
 ## Teekkariohjelmaa
 | Aika | Ohjelma | Paikka |
 |:---------|------:|-------------:|
-| TBA
+| _Menopäivä_ |
+| 20.00 | Aarteenmetsästys | Koko laiva |
+| 22.00 | Teekkaritapaaminen | Starlight |
+| _Paluupäivä_ |
+| 13-16 | Beer Pongia, Bingoa ja Pubivisailua | Klubi |
+| TBA | Escapeship | Koko laiva |
+
 
 ## Laivan oma ohjelma
 | Aika | Ohjelma | Paikka |
