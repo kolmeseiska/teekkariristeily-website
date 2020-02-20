@@ -3,3 +3,6 @@
 
 npm-debug.*
 .env
+
+.DS_Store
+*/.DS_Strore
