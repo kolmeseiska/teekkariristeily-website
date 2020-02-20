@@ -27,5 +27,22 @@ submenu:
 
 ## Laivan oma ohjelma
 | Aika | Ohjelma | Paikka |
-|:---------|------:|-------------:|
-| TBA
+|---------:|:------|-------------:|
+| _To 2.4._ |
+| TBA | Bilebändi: Remix! | Starlight |
+| TBA | Housebändi: Fun & Cool | Starlight |
+| TBA | Trubaduuri: Mikko Pietilä | Sea Pub |
+| TBA | Pianisti: Stanly | Piano Bar |
+| TBA | Trio: Jade | Iskelmä baari |
+| TBA | DJ: Tomi Aikio | Klubi |
+| TBA | PAF Super Jackpot Bingo | Starlight |
+| TBA | Tietovisa | Starlight |
+| _Pe 3.4._ |
+| TBA | Bilebändi: Remix! | Starlight |
+| TBA | Housebändi: Fun & Cool | Starlight |
+| TBA | Trubaduuri: Mikko Pietilä | Sea Pub |
+| TBA | Pianisti: Stanly | Piano Bar |
+| TBA | Trio: Jade | Iskelmä baari |
+| TBA | DJ: Tomi Aikio | Klubi |
+| TBA | PAF Super Jackpot Bingo | Starlight |
+| TBA | Tietovisa | Starlight |
