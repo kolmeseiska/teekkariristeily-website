@@ -22,7 +22,7 @@ submenu:
 | 22.00 | Teekkaritapaaminen | Starlight |
 | _Paluupäivä_ |
 | 13.00-16.00 | Beer Pongia, Bingoa ja Pubivisailua | Klubi |
-| 13.00-16.00 | Lötköpötkökyykkää | Klubi |
+| 14.00-16.00 | Lötköpötkökyykkää | Klubi |
 | TBA | Escapeship | Koko laiva |
 
 
