@@ -4,7 +4,7 @@
   "description": "A static site template using metalsmith.",
   "main": "index.js",
   "scripts": {
-    "build:css": "node-sass --include-path scss ./src/main.scss ./dist/css/styles.css",
+    "build:css": "sass ./src/main.scss ./dist/css/styles.css",
     "build:metalsmith": "bash -c \"node build.js\"",
     "build:js": "bash -c \"browserify ./src/main.js -o ./dist/bundle.js -t [ babelify --presets [ es2015] ] \"",
     "uglify": "uglifyjs --compress --mangle -- ./dist/bundle.js > ./dist/bundle.min.js",
@@ -29,8 +29,8 @@
     "metalsmith-filter": "^1.0.2",
     "metalsmith-layouts": "^1.6.5",
     "metalsmith-markdown": "^0.2.1",
-    "node-sass": "^3.8.0",
     "nodemon": "^1.10.0",
+    "sass": "^1.70.0",
     "uglify-js": "^2.7.3"
   },
   "engines": {
