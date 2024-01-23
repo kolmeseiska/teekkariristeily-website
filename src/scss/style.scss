@@ -26,8 +26,14 @@
   h2 {
     @include padding-provider(2, 2);
     font-family: $font-bang;
-    font-size: 24px;
+    font-size: 2rem;
     text-align: center;
+    :last-child {
+      padding-left: 3rem;
+    }
+    :first-child {
+      padding-right: 3rem;
+    }
 
     a {
       text-decoration: none;
@@ -43,13 +49,17 @@
   }
 
   p {
-    padding: $padding-default;
+    padding: $padding-default 4rem;
     text-align: justify;
     line-height: 1.4;
   }
 
   strong {
     font-weight: 900;
+  }
+
+  em {
+    font-size: 3rem;
   }
 
   table {

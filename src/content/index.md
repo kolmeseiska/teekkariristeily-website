@@ -1,42 +1,47 @@
 ---
-title: Teekkariristeily-23
+title: Teekkariristeily-24
 draft: false
 layout: index.html
 banner: assets/banner.png
 content-modifier: home
 ---
 
-## Teekkariristeily 2023 on pian täällä!
+## **TEEKKARIRISTEILY RANTAUTUU JÄLLEEN SUOMEN TURKUUN!**
 
-**VARASLÄHTÖ TURUN TEEKKARIWAPPUUN! 🧜🏻**
+Toivotamme kaikki teekkarit ja teekkarimieliset lämpimästi
+tervetulleiksi Viking Linen piknikristeilylle 29.3! Lunasta itsellesi
+sekä kavereillesi liput tälle mahtavalle yhden päivän meriseikkailulle
+täältä!
 
-Teekkariristeily saapuu satamaan toivottaen kaikki teekkarit sekä teekkarimieliset ottamaan varaslähdön Turun teekkariwappuun 11.4. Viking Linella! Lunasta itsellesi sekä kavereille liput tälle mahtavalle yhden päivän meriseikkailulle <a href="https://kide.app/events/fe21c769-4855-4107-b94e-be2d868a7cf4" target="_blank">*Kide.appista!* </a>
+## *🧺* **PIKNIK-RISTEILY** *🧺*
 
-**PIKNIK-RISTEILY 🧺**
+Upea **Viking Glory** irtoaa Turun satamasta klo 8.45. Maarianhaminassa loikkaamme klo 14.10 **Viking Grace**n kyytiin ja kyseinen alus rantautuu takaisin Turun satamaan samana päivänä klo 19.50.
 
-Wapunwarastuspiknik heilahtaa liikkeelle Turun satamasta kello 8:45, kun upea **Viking Glory **lähtee lipumaan kohti Maarianhaminaa. Loikkaamme Maarianhaminassa **Viking Grace**n kyytiin kello 14:10 ja telakoidumme lopulta takaisin Turun satamaan samana päivänä kello 19.50. Ps. risteily on oiva mahdollisuus täydentää herkkuvarastot wappua varten!
+## *🎟️* **LIPUT** *🎟️*
 
-**LIPUT 💰**
+Lipun hinta 50€ sisältäen 25€ risteilylipetin, jonka voi käyttää
+laivan ravintoloissa ja kaupoissa. Lisähinnasta voit saada itsellesi lisäksi
+aamiaisen sekä paluumatkalle.
 
-Lipun hinta 45€ sisältäen 18€ risteilylipetin, jonka voi käyttää laivan ravintoloissa + mahdollisuus ostaa aamiainen ja paluumatkan hytti.
+## *🚪* **HYTEISTÄ** *🚪*
 
-**Huom!** Risteilyllä toimii tämänhetkisen tiedon mukaan samat ikärajat, kuin reittiliikenteessä. Tästä johtuen risteily on ainakin vielä toistaiseksi vain 20-vuotiaille ja sitä vanhemmille.
+Voit ostaa itsellesi ja kolmelle kaverillesi hytin **paluumatkalle** **(23 €)**. Valitkaa hytillenne vastuuhenkilö, joka maksaa hytin oman tilauksensa yhteydessä ja täyttää samalla hyttiin kuuluvien nimet. **Varmistakaa, että hytin ostaa ja hyttitiedot täyttää vain yksi henkilö per hytti!**
 
-**HYTEISTÄ 🚪**
+## _🍽️_ **RUOKAILUT** _🍽️_
 
-Voit ostaa itsellesi ja kolmelle kaverillesi hytin **paluumatkalle** hintaan 23 € per hytti. Valitkaa hytillenne vastuuhenkilö, joka maksaa hytin oman tilauksensa yhteydessä ja täyttää samalla hyttiin kuuluvien nimet. **Varmistakaa, että hytin ostaa ja hyttitiedot täyttää vain yksi henkilö per hytti!**
+Voit valita lippua ostaessasi **vapaavalintaisen** aamiaisen hintaan 16 € (meriaamiainen) tai 23 € (premium-aamiainen).
 
-**RUOKAILUT 🍽️**
+## *🤙* TELEGRAM-RYHMÄ  *🤙*
 
-Voit valita lippua ostaessasi **vapaavalintaisen** aamiaisen hintaan 16 € (meriaamiainen) tai 23 € (premium-aamiainen). Laivalla on myös perinteinen buffet ruokajuomineen ja monipuolisesti á la carte  vaihtoehtoja.
+Risteilytunnelmaa voi tulla kohottamaan risteilyn aikana sekä etu- ja
+takakäteen virallisen epävirallisessa Telegram-ryhmässä! Ryhmään pääsee
+liittymään [tästä](https://t.me/+PfBzdbG2eUsxNjI0).
 
-**KITEYTETTYNÄ 💎**
+## *💎* **KITEYTETTYNÄ** *💎*
 
-Mitä: Teekkariristeily - Wapunwarastuspiknik<br>
-Missä: Turun satama Viking Line piknik-päiväristeily<br>
-Milloin: 11.4. 7.45-19.50<br>
-Miten: <a href="https://kide.app/events/fe21c769-4855-4107-b94e-be2d868a7cf4" target="_blank">*Kide.app* </a><br>
-Hinta: 45€ (sis. 18€ touhurahaa laivalla) + vapaavalintainen hytti ja aamiaiset
-
-Lähempänä risteilyä julkaisemme sivuilla myös lisätietoa risteilyn ohjelmasta.
+**Mitä:** Teekkariristeily 2024<br>
+**Missä:** Turun satama Viking Line piknik-päiväristeily<br>
+**Milloin:** 29.3. klo 7.45–19.50<br>
+**Miten:** Kide.app<br>
+**Hinta:** 50€ (sis. 25€ touhurahaa laivalla) + vapaavalintainen hytti ja aamiaiset
 
