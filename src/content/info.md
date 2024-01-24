@@ -10,20 +10,15 @@ Teekkariristeily, kaikkien teekkarien ja teekkarimielisten veijarien suosikkiris
 
 Neitsytristeily vuonna 2015 starttasi Turusta mukanaan noin 140 eri puolilta Suomea saapunutta iloista risteilijää. Itse matka soljui eteenpäin kuin humalainen norsu mikroluokassa, täysillä ja tyylillä. Laivan ohjelma, järjestäjien lottoamat kisailut ja täysi tanssilattia pitivät huolen siitä, ettei ensimmäisellä risteilyllä aika käynyt pitkäksi!
 
-Vuonna 2016 reissula oli mukana jo 300 iloista seiloria ja hauskaa pidettiin.
+Vuonna 2016 reissulla oli mukana jo 300 iloista seiloria ja hauskaa pidettiin.
 
-Seuraavana vuonna, eli 2017, risteilysaaga sai jatkoa ja vuorossaan kolmas risteily oli eeppinen seikkailunsa sekin.
+Seuraavana vuonna, eli 2017, risteilysaaga sai jatkoa ja vuorossaan kolmas risteily oli eeppinen seikkailunsa sekin. Lakit jätettiin tällä kertaa odottelemaan kotihyllylle, kesä kun ei ihan vielä ulottunut maaliskuuhun. Vuosien 2018 ja 2019 risteilyt eivät nekään kalvenneet edeltäjiensä rinnalla.
 
-Katsotaan, mitä 2020 vuoden versio tuokaan tullessaan...
+Vuoden 2020 versiosta jäi haikeus niin järjestäjille kuin osallistujillekin, kun pandemiatilanteen vuoksi Teekkariristeily jouduttiin laittamaan hyllylle odottelemaan parempia aikoja.
+
+Kärsivällinen odotus palkittiin vuonna 2023, kun lähes satapäinen joukko rohkeita Wappuwarkaita nousivat jälleen aalloille. Risteilyn konsepti tuuletettiin piknik-muotoiseksi ja muutoksen myötä varustamokin vaihtui punertavammaksi. Tapahtuma oli uusista tuulista huolimatta - ainakin palautekyselyn perusteella - edelleen kovin pidetty!
+
+Nähtäväksi jää, mitä vuoden 2024 risteily tuo tullessaan...
 
 <h2 style="padding-bottom: 0">"Tätä reissua en missaisi mistään hinnasta" </h2>
 <h2 style="padding-top: 0; font-size: 15px"> -Matti ja Teppo (ei muusikot), 2016</h2>
-
-<div class="rounded-container">
-<div class="rounded-image" style="background-image: url(assets/info1.jpg)"></div></div>
-<div class="rounded-container">
-<div class="rounded-image" style="background-image: url(assets/info2.jpg)"></div></div>
-<div class="rounded-container">
-<div class="rounded-image" style="background-image: url(assets/info3.jpg)"></div></div>
-<div class="rounded-container">
-<div class="rounded-image" style="background-image: url(assets/info4.jpg)"></div></div>

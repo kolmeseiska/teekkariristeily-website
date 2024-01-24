@@ -1,10 +1,9 @@
 ---
-title: Teekkariristeily-20
+title: Yhteystiedot
 draft: false
 layout: index.html
 content-modifier: contacts
 ---
-
 ## Yhteydenotto
 
 <img class="logo" src="assets/logo.png">

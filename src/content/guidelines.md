@@ -2,60 +2,69 @@
 title: Matkustusohjeet
 draft: false
 layout: index.html
-links:
-- Etusivu
-- Info
-- Ilmoittautuminen
-- Yhdistys
-submenu:
-- Hinnat
-- Ohjelma
-- Ohjeet
-- Matkaehdot
+content-modifier: guidelines
 ---
 ## Matkustusohjeet
 
-### Pukeutuminen
+Tarkemmat [matkaehdot](https://www.vikingline.fi/valitse-matka/hyva-tietaa/matkaehdot/reittimatkat/) ja [järjestyssäännöt](https://www.vikingline.fi/valitse-matka/hyva-tietaa/jarjestyssaannot/) löytyvät Viking Linen sivuilta.
+
+## Pukeutuminen
+
 Pukukoodina Teekkariristeilyllä on haalarit.
 
-### Ikäraja
+## Ikäraja
+
 Risteilylle on 18 vuoden ikäraja.
 
-### Tax Free
-Tax Free myymälä on normaalisti auki risteilyn ajan, mutta alkoholituotteita myydään vasta paluupäivänä. 
+## Henkilöllisyystodistus
 
-### Lippujen jako
-Hyttien liput on jaettu kirjekuoriin ja lajiteltu hytin yhteyshenkilön sukunimen mukaan. Kirjekuoressa on käsiohjelmat, haalarimerkit sekä maihinnousukortit.
+Jokaisella matkustajalla tulee olla esittää voimassa oleva henkilöllisyystodistus.
 
-Satamassa Siljan terminaalissa, ryhmämatkojen toimiston vieressä on pitkä pöytä, jonka luota yhteyshenkilön tulee noutaa kirjekuorensa.
+## Tax Free
 
-Lippuja aletaan jakamaan alkaen kello 18.30. Olkaa kilttejä ja noutakaa lippunne mielellään varttia vaille kahdeksan eli 19.45 mennessä! Tämä auttaa jättämään aikaa jos jotain pitää vielä korjata.
+Tax Free -myymälä on normaalisti auki risteilyn ajan. Viking Line ei ilmoita kauppojen ja ravintoloiden aukioloaikoja ennen risteilyn lähtöä edes ohjeellisesti, joten tarkemmat ajat selviävät laivalla.
 
-### Lippujenjaon jälkeen
-Laivaan nousu tapahtuu terminaalin toisesta kerroksesta. Terminaalin toisessa kerroksessa on odotusalue, johon pääsee turvatarkastuksen jälkeen. Turvatarkastuksessa matkalipustasi luetaan viivakoodi, jonka jälkeen et pääse enää pois odotusalueelta. Odotusalueella on erillinen anniskelualue. Matkustajat pääsevät odotusalueelta laivaan noin klo 20.00.
-Käyttäydy satamassa asiallisesti. Huomattavassa humalassa oleva tai häiritsevästi käyttäytyvä matkustaja voidaan jättää satamaan.
+## Tapahtumalippujen vaihto
 
-Matkustajan on pyydettäessä todistettava henkilöllisyytensä satamassa kuvallisella poliisin myöntämällä henkilöllisyystodistuksella (passi/ajokortti/henkilökortti). Jos matkustaja ei pysty todistamaan henkilöllisyyttään, voi laivayhtiö kieltäytyä kuljettamasta ko matkustajaa.
-Sataman turvamiehet voivat puuttua omien juotavien juomiseen satamassa, joten älä heilu terminaalissa kaljapullot ym. kädessä tai näkyvissä. Turvamiehet voivat tehdä matkustajien matkatavaroihin pistokokein tarkastuksia ja havaitessaan takavarikoida omia alkoholijuomia ja/tai soittimia.
+Lippuja vaihdetaan Viking Linen terminaalin toisessa kerroksessa klo 7.45 lähtien. Maihinnousukortti, arvokortti, käsiohjelma, haalarimerkki ja mahdollinen aamiaiskuponki jaetaan käyttämätöntä Kide.app-lippua vastaan.
 
-### Laivalla
+Paluumatkan hyttien hyttikortit on jaettu kirjekuoriin ja lajiteltu hytin yhteyshenkilön sukunimen mukaan. Hyttikuoren noutaa ensisijaisesti hytin varannut henkilö.
 
-### Ruokakupongit
-Mahdolliset ennakkoon tilatut ruokakupongit ovat yhdistetty maihinnousukortteihin. Ruokakupongissa lukee mihin ruokailuun se oikeuttaa sekä kupongin arvo. Voit käyttää kuponkia maksuvälineenä laivan ruokaravintoloissa. Maksettaessa ruokaa, jonka arvo on ruokalipun arvoa pienempi, ei erotusta hyvitetä asiakkaalle eikä käyttämättömiä ruokaseteleitä lunasteta takaisin.
+Olkaa kilttejä ja noutakaa lippunne mielellään varttia yli kahdeksan (klo 8.15) mennessä! Tämä auttaa jättämään aikaa jos jotain pitää vielä korjata.
 
-### Ruokailut
-Buffetillalliseen ei tehdä erilisiä pöytävarauksia, vaan ravintolan hovimestari ohjaa seurueenne vapaana olevaan pöytään, kun saavutte ruokailemaan.
-Alla buffetkattausten ajat:
-Buffetillallinen 20.15-22.00 ja 22.30-00.00
-Aamiainen 06.00-11.00, lisäksi 06.00-08.00 Food Marketissa
-Buffetlounas 14.00-15.30. Ei erillisiä kattauksia, sisäänpääsy klo 15.30 asti.
+## Lippujenjaon jälkeen
 
-### Nuuska
-Nuuskan myynti on sallittua ainoastaan laivan ollessa Ruotsin aluevesillä. Nuuskan myynti Tax Freessä 09.00-12.30. 
+Lähtöselvitys ja laivaan nousu tapahtuvat terminaalin toisessa kerroksessa. Lähtöselvityksessä matkalipustasi luetaan viivakoodi, jonka jälkeen et pääse enää pois odotusalueelta. Matkustajat pääsevät odotusalueelta laivaan noin klo 8.00.
+Käyttäydythän satamassa asiallisesti. Huomattavan päihtynyt tai häiritsevästi käyttäytyvä matkustaja voidaan jättää satamaan.
 
-### Laivalla kelpaavat maksuvälineet
-Laivalla voi maksaa käteisellä euroilla ja Ruotsin kruunuilla. Kaikissa laivamyymälöissä otetaan vastaan seteleinä myös muita valuuttoja. Laivalla voi maksaa seuraavilla luotto- ja maksukorteilla: JCB-kortti, EuroCard, MasterCard, VISA, VISA Electron (edellyttäen, että satelliittiyhteys toimii!), VISA Debit (edellyttäen, että satelliittiyhteys toimii!), American Express, Diners Club International, Matkaluotto/Käyttöluotto, OP-Kultaraha, TiliRaha, Aktiiviraha, Stockmann Master Card, Tapiola-kortti, K-plussa-maksu- ja luottokortti, suomalaiset pankkikortit, ruotsalaiset pankkikortit. Huom! Nesteen luottokortit eivätkä lounassetelit kelpaa maksuvälineenä Siljan laivoilla. 
+Matkustajan on pyydettäessä todistettava henkilöllisyytensä satamassa kuvallisella poliisin myöntämällä henkilöllisyystodistuksella (passi/ajokortti/henkilökortti). Jos matkustaja ei pysty todistamaan henkilöllisyyttään, voi laivayhtiö kieltäytyä kuljettamasta matkustajaa.
 
-### Muuta huomioitavaa
-Omien alkoholituotteiden tuominen ja käyttö laivalla ehdottomasti kielletty. Omien CD-soittimien tai vastaavien käyttö ilman kuulokkeita on kielletty. Laivayhtiöllä on oikeus takavarikoida em. tavaraa tai evätä matkustajalta pääsy laivaan. 
-### Laivayhtiö veloittaa asiakkailta alkaen 100€ hyteistä, jotka sotkettu tai joissa on tupakoitu!
+Sataman turvamiehet voivat puuttua omien juotavien juomiseen satamassa, joten älä heilu terminaalissa alkoholijuomat kädessä tai näkyvissä. Turvamiehet voivat tehdä matkustajien matkatavaroihin pistokokein tarkastuksia ja havaitessaan takavarikoida omia alkoholijuomia, matkasoittimia ym. laivalla kiellettyjä esineitä.
+
+## Laivalla
+
+## Aamiaiskupongit
+
+Mahdolliset ennakkoon tilatut aamiaiskupongit jaetaan lipunvaihdon yhteydessä. Aamiaiskupongissa lukee, onko kyseessä Meriaamiainen (16 €) vai Premium-aamiainen (23 €). Voit käyttää kuponkia osamaksuvälineenä kaikissa Viking Gloryn ja Gracen ruokaravintoloissa. Maksettaessa ruokaa, jonka arvo on ruokalipun arvoa pienempi, ei erotusta hyvitetä asiakkaalle eikä käyttämättömiä ruokaseteleitä lunasteta takaisin.
+
+## Arvokupongit
+
+Matkan hintaan kuuluvan arvokupongin (25 €) voi käyttää kertaostokseen missä tahansa laivan kaupassa tai ravintolassa. Arvokupongista ei saa vaihtorahaa eikä niitä lunasteta takaisin.
+
+## Nuuska
+
+Nuuskan myynti on sallittua ainoastaan laivan ollessa Ruotsin aluevesillä. Muita nikotiinituotteita, kuten tupakkaa ja nikotiinipusseja, myydään Tax Free -myymälän aukioloaikojen puitteissa.
+
+## Laivalla kelpaavat maksuvälineet
+
+Laivalla voi maksaa käteisellä euroilla ja Ruotsin kruunuilla. Viking Gracella on Eurocash Finlandin Nosto-käteisautomaatti. Huomioithan, että jotkut pankit veloittavat Nosto-automaateilla tehdyistä käteisnostoista nostopalkkion tai palvelumaksun. Tutustu oman pankkisi palveluhinnastoon.
+
+Laivalla voi maksaa seuraavilla luotto- ja maksukorteilla: American Express, EuroCard, pankkikortit, Master Card, VISA sekä VISA Electron ja Maestro.
+
+Huomioi kuitenkin, että VISA Electron- ja Maestro-korttien käyttöä laivalla voivat rajoittaa mahdolliset häiriöt satelliittiyhteyksissä. Yhteyshäiriön sattuessa korttimaksu ei ole mahdollinen.
+
+## Muuta huomioitavaa
+
+Omien alkoholituotteiden tuonti ja nauttiminen laivalla ehdottomasti kielletty. Omien CD-soittimien tai vastaavien käyttö ilman kuulokkeita on kielletty. Laivayhtiöllä on oikeus takavarikoida em. tavaraa tai evätä matkustajalta pääsy laivaan.
+
+## Kaikki laivoilla tapahtunut vahingonteko aiheuttaa korvausvelvollisuuden! Vahingonteosta tehdään rikosilmoitus, mikäli vahinkoa ei korvata paikan päällä.
