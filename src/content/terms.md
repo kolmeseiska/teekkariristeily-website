@@ -7,7 +7,7 @@ content-modifier: terms
 
 ## Matkaehdot
 
-Teekkariristeily 2024 -tapahtuman järjestäjänä toimii Kolmeseiska ry. Risteilyn aikana laivan normaalitoiminnoista vastaa Viking Line. Lipunmyynti järjestetään yhdessä Kide.appin kanssa.
+Teekkariristeily 2025 -tapahtuman järjestäjänä toimii Kolmeseiska ry. Risteilyn aikana laivan normaalitoiminnoista vastaa Viking Line. Lipunmyynti järjestetään yhdessä Kide.appin kanssa.
 
 Laivalla noudatetaan viranomaismääräysten lisäksi Viking Linen järjestyssääntöjä ja määräyksiä.
 
@@ -31,7 +31,6 @@ Muutokset tehdään ensisijaisesti Kide.app-tapahtumalipun haltijan toimesta lip
 
 Kokonaishinnan muuttuessa lippuun tehtävien muutosten seurauksena tulee erotus lipun haltijalle joko maksettavaksi tai palautettavaksi. Palautettavasta summasta vähennetään kuitenkin 50 % riippuen muutoksen tai peruutuksen ajankohdasta (perusteet mainittu alla).
 
-Ennen 21.2.2024 klo 00.00 tehdyistä peruutuksista ja palautuksiin oikeuttavista muutoksista palautetaan koko summa lukuun ottamatta lipun myynnistä ja palautuksesta aiheutuneita kustannuksia. Palautettavat maksut hyvitetään Kide.app-tapahtumalipun haltijan ilmoittamalle tilille. 21.2.2024 klo 00.00 jälkeen tehdyistä peruutuksista ja muutoksista palautetaan 50%. Vapaaehtoisten aamiaisten ja paluumatkan hyttivarausten peruutuksia ei hyvitetä.
+Ennen 21.2.2025 klo 00.00 tehdyistä peruutuksista ja palautuksiin oikeuttavista muutoksista palautetaan koko summa lukuun ottamatta lipun myynnistä ja palautuksesta aiheutuneita kustannuksia. Palautettavat maksut hyvitetään Kide.app-tapahtumalipun haltijan ilmoittamalle tilille. 21.2.2025 klo 00.00 jälkeen tehdyistä peruutuksista ja muutoksista palautetaan 50%. Vapaaehtoisten aamiaisten ja paluumatkan hyttivarausten peruutuksia ei hyvitetä.
 
 Järjestäjä ei korvaa matka-, majoitus- tai muita vastaavia kuluja, jotka aiheutuvat laivasta myöhästymisen, matkalipun hukkumisen, laivaan pääsyn eväämisen tai viranomaistoimien vuoksi.
-

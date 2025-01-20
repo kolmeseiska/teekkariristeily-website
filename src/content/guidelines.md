@@ -26,11 +26,11 @@ Tax Free -myymälä on normaalisti auki risteilyn ajan. Viking Line ei ilmoita k
 
 ## Tapahtumalippujen vaihto
 
-Lippuja vaihdetaan Viking Linen terminaalin toisessa kerroksessa klo 7.45 lähtien. Maihinnousukortti, arvokortti, käsiohjelma, haalarimerkki ja mahdollinen aamiaiskuponki jaetaan käyttämätöntä Kide.app-lippua vastaan.
+Lippuja vaihdetaan Viking Linen terminaalin toisessa kerroksessa klo 8:00 lähtien. Maihinnousukortti, arvokortti, käsiohjelma, haalarimerkki ja mahdollinen aamiaiskuponki jaetaan käyttämätöntä Kide.app-lippua vastaan.
 
 Paluumatkan hyttien hyttikortit on jaettu kirjekuoriin ja lajiteltu hytin yhteyshenkilön sukunimen mukaan. Hyttikuoren noutaa ensisijaisesti hytin varannut henkilö.
 
-Olkaa kilttejä ja noutakaa lippunne mielellään varttia yli kahdeksan (klo 8.15) mennessä! Tämä auttaa jättämään aikaa jos jotain pitää vielä korjata.
+Olkaa kilttejä ja noutakaa lippunne mielellään puoli yhdeksään (klo 8:30) mennessä! Tämä auttaa jättämään aikaa jos jotain pitää vielä korjata.
 
 ## Lippujenjaon jälkeen
 
@@ -45,11 +45,11 @@ Sataman turvamiehet voivat puuttua omien juotavien juomiseen satamassa, joten ä
 
 ## Aamiaiskupongit
 
-Mahdolliset ennakkoon tilatut aamiaiskupongit jaetaan lipunvaihdon yhteydessä. Aamiaiskupongissa lukee, onko kyseessä Meriaamiainen (16 €) vai Premium-aamiainen (23 €). Voit käyttää kuponkia osamaksuvälineenä kaikissa Viking Gloryn ja Gracen ruokaravintoloissa. Maksettaessa ruokaa, jonka arvo on ruokalipun arvoa pienempi, ei erotusta hyvitetä asiakkaalle eikä käyttämättömiä ruokaseteleitä lunasteta takaisin.
+Mahdolliset ennakkoon tilatut aamiaiskupongit jaetaan lipunvaihdon yhteydessä. Voit käyttää kuponkia osamaksuvälineenä kaikissa Viking Gloryn ja Gracen ruokaravintoloissa. Maksettaessa ruokaa, jonka arvo on ruokalipun arvoa pienempi, ei erotusta hyvitetä asiakkaalle eikä käyttämättömiä ruokaseteleitä lunasteta takaisin.
 
 ## Arvokupongit
 
-Matkan hintaan kuuluvan arvokupongin (25 €) voi käyttää kertaostokseen missä tahansa laivan kaupassa tai ravintolassa. Arvokupongista ei saa vaihtorahaa eikä niitä lunasteta takaisin.
+Matkan hintaan kuuluvan arvokupongin (25 €) voi käyttää kertaostokseen missä tahansa laivan ruokaravintolassa. Arvokupongista ei saa vaihtorahaa eikä niitä lunasteta takaisin.
 
 ## Nuuska
 
