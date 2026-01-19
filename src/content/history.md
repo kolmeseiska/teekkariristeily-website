@@ -20,7 +20,7 @@ Kärsivällinen odotus palkittiin vuonna 2023, kun lähes satapäinen joukko roh
 
 Vuonna 2024 jatkettiin hyväksi koetulla piknik-formaatilla. Menomatkalla risteilykansa viihtyi mm. TEKin ja Pönkelin järjestämissä ohjelmanumeroissa, eikä lähes perinteiksi muodostuneita aarteenetsintää ja rastikierrosta oltu unohdettu. Pitkäperjantai ei tuntunut lainkaan pitkältä Teekkariristeilyn tarjotessa ohjelmaa Itämeren aaltojen päällä!
 
-Nähtäväksi jää, mitä vuoden 2025 risteily tuo tullessaan...
+Nähtäväksi jää, mitä vuoden 2025 risteilystä kirjaillaan virallisen epäviralliseen risteilyhistoriikkiin (jota luet tällä hetkellä) ja mitä vuoden 2026 risteily tuo tullessaan...
 
 <h2 style="padding-bottom: 0">"Tätä reissua en missaisi mistään hinnasta" </h2>
 <h2 style="padding-top: 0; font-size: 15px"> -Matti ja Teppo (ei muusikot), 2016</h2>
