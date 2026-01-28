@@ -126,13 +126,13 @@ a.button-1 {
   border-style: solid;
   border-radius: 16px;
   box-sizing: border-box;
-  color: rgb(94, 53,177);
+  color: rgb(255, 255, 255);
   display: flex;
   flex-basis: auto;
   flex-direction: row;
   flex-grow: 0;
   flex-shrink: 0;
-  font-family: "Nunito Sans", sans-serif;
+  font-family: "Work Sans", sans-serif;
   font-size: 1rem;
   font-weight: 600;
   height: 32px;
@@ -140,6 +140,7 @@ a.button-1 {
   line-height: 20px;
   letter-spacing: 0.4px;
   padding: 0px 12px;
+  text-shadow: -1px -1px 1px #000, 1px -1px 1px #000, -1px 1px 1px #000, 1px 1px 1px #000;
 }
 
 a.button-1:active {

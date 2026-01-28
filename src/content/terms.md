@@ -7,13 +7,13 @@ content-modifier: terms
 
 ## Matkaehdot
 
-Teekkariristeily 2025 -tapahtuman järjestäjänä toimii Kolmeseiska ry. Risteilyn aikana laivan normaalitoiminnoista vastaa Viking Line. Lipunmyynti järjestetään yhdessä Kide.appin kanssa.
+Teekkariristeily 2026 -tapahtuman järjestäjänä toimii Kolmeseiska ry. Risteilyn aikana laivan normaalitoiminnoista vastaa Viking Line. Lipunmyynti järjestetään Kolmeseiska ry:n Holvi-kaupassa.
 
 Laivalla noudatetaan viranomaismääräysten lisäksi Viking Linen järjestyssääntöjä ja määräyksiä.
 
 Laivalla turvallisuudesta ja järjestyksenvalvonnasta vastaa laivayhtiö. Viking Linen säännöt, määräykset ja ohjeet löydät kokonaisuudessaan Viking Linen internetsivuilta: [https://www.vikingline.fi/valitse-matka/hyva-tietaa/](https://www.vikingline.fi/valitse-matka/hyva-tietaa/)
 
-Matkavaraukset ovat sitovia. Matkan hinta määräytyy tapahtumalipun pohjahinnan (50 €) sekä valittujen lisäpalvelujen mukaisesti. Varattuun matkaan on mahdollista tehdä muutoksia ja/tai peruutuksia järjestäjän ilmoittamien perutusehtojen (alla) mukaisesti.
+Matkavaraukset ovat sitovia. Matkan hinta määräytyy hytissä matkustavien henkilöiden määrän mukaan. Varattuun matkaan on mahdollista tehdä muutoksia ja/tai peruutuksia järjestäjän ilmoittamien perutusehtojen (alla) mukaisesti.
 
 Hytin varanneille matkustajille annetaan lähtökohtaisesti oikeus käyttää varauksessa valittua hyttiluokkaa (Inside Four). Viking Linellä tai järjestäjällä on kuitenkin oikeus muuttaa hyttiluokkaa paremmaksi hyttikiintiöiden täytyttyä tai ylivaraustapauksissa. Viking Linellä tai järjestäjällä ei ole kuitenkaan oikeutta veloittaa em. tapauksessa tehdystä muutoksesta matkustajia.
 
@@ -25,12 +25,14 @@ Teekkariristeilyllä voidaan taltioida tapahtumia järjestäjän toimesta tai j�
 
 ## Peruutusehdot
 
-Vain Kide.app-tapahtumalipun haltija voi tehdä muutoksia ja peruutuksia lipun tietoihin.
+Vain Holvi-tapahtumalipun ostaja voi tehdä muutoksia ja peruutuksia lipun tietoihin.
 
-Muutokset tehdään ensisijaisesti Kide.app-tapahtumalipun haltijan toimesta lipun tietoihin. Muissa tapauksissa muutokset ja peruutukset tehdään sähköpostitse (kolomeseiska(at)gmail.com).
+Muutokset tehdään ensisijaisesti Holvi-tapahtumalipun ostajan toimesta sähköpostitse (kolomeseiska(at)gmail.com).
 
 Kokonaishinnan muuttuessa lippuun tehtävien muutosten seurauksena tulee erotus lipun haltijalle joko maksettavaksi tai palautettavaksi. Palautettavasta summasta vähennetään kuitenkin 50 % riippuen muutoksen tai peruutuksen ajankohdasta (perusteet mainittu alla).
 
-Ennen 21.2.2025 klo 00.00 tehdyistä peruutuksista ja palautuksiin oikeuttavista muutoksista palautetaan koko summa lukuun ottamatta lipun myynnistä ja palautuksesta aiheutuneita kustannuksia. Palautettavat maksut hyvitetään Kide.app-tapahtumalipun haltijan ilmoittamalle tilille. 21.2.2025 klo 00.00 jälkeen tehdyistä peruutuksista ja muutoksista palautetaan 50%. Vapaaehtoisten aamiaisten ja paluumatkan hyttivarausten peruutuksia ei hyvitetä.
+Ennen 20.2.2026 klo 00.00 tehdyistä peruutuksista ja palautuksiin oikeuttavista muutoksista palautetaan koko summa lukuun ottamatta lipun myynnistä ja palautuksesta aiheutuneita kustannuksia. Palautettavat maksut hyvitetään Holvi-tapahtumalipun ostajan ilmoittamalle tilille. 20.2.2025 klo 00.00 jälkeen tehdyistä peruutuksista ja muutoksista palautetaan 50%.
 
 Järjestäjä ei korvaa matka-, majoitus- tai muita vastaavia kuluja, jotka aiheutuvat laivasta myöhästymisen, matkalipun hukkumisen, laivaan pääsyn eväämisen tai viranomaistoimien vuoksi.
+
+Päivitetty 27.1.2026
